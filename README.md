@@ -8,5 +8,6 @@
 - PHP,
 - HTML/CSS,
 - Ruby on Rails,
-- Python<br>
+- Python
+<br>
 ⚡ Fun fact: I love The Office
