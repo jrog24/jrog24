@@ -9,4 +9,4 @@
  - HTML/CSS,
  - Ruby on Rails,
  - Python
-⚡ Fun fact: I love The Office
+<br>⚡ Fun fact: I love The Office
