@@ -1,7 +1,9 @@
 ### Hey guys 👋
 
 🔭 I’m currently working on IoT stuff, mainly Arduino and ESP32. I also do some C# coding and occasionally take on webdev.
+<br>
 👯 I’m looking to collaborate on literally anything that involves IoT and/or C/C++/C#.
+<br>
 ⚡ Fun fact: I bought my first console in 2019. 
 
 <!--
