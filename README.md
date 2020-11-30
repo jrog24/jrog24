@@ -8,5 +8,6 @@
  - PHP,
  - HTML/CSS,
  - Ruby on Rails,
- - Python.
-⚡ Fun fact: I bought my first console in 2019. 
+ - Python
+ <br>
+⚡ Fun fact: I love The Office
