@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey guys 👋
+
+🔭 I’m currently working on IoT stuff, mainly Arduino and ESP32. I also do some C# coding and occasionally take on webdev.
+👯 I’m looking to collaborate on literally anything that involves IoT and/or C/C++/C#.
+⚡ Fun fact: I bought my first console in 2019. 
 
 <!--
 **jrog24/jrog24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
