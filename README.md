@@ -5,6 +5,7 @@ I'm a IoT Apps student in Adam Mickiewicz University in Poznan. I'm mainly inter
 
 [<img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-247df2?style=flat&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="Azure" align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />](https://azure.microsoft.com/en-us/)
+[<img alt="AWS" align="center" src="https://img.shields.io/badge/AWS-FCC624?style=flat&logo=amazon&logoColor=black" />](https://aws.amazon.com/)
 [<img alt="Kubernetes" align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />](https://kubernetes.io/)
 
 [<img alt="MSSQL" align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />](https://www.microsoft.com/pl-pl/sql-server/sql-server-2022?rtc=1)
