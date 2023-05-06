@@ -15,6 +15,7 @@ I'm doing a Master's Degree at Adam Mickiewicz University in Poznan. I'm mainly 
 
 [<img alt="Linux" align="center" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />](https://www.linuxfoundation.org/)
 [<img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />](https://git-scm.com/)
+[<img alt="Powershell" align="center" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)" />](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
 
 
 [<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" />](https://www.python.org)
