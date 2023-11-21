@@ -1,7 +1,5 @@
 Welcome to my profile!
 
-I'm doing a Master's Degree at Adam Mickiewicz University in Poznan. I'm mainly interested in cloud computing, DevOps and object-oriented programming. My current tech stack consists of :
-
 
 [<img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-247df2?style=flat&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="Azure" align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />](https://azure.microsoft.com/en-us/)
